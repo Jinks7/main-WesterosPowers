@@ -1,4 +1,0 @@
-<h2>Pyke</h2>
-<p>Pyke is a castle located on the island of the same name, which is one of the eight major Iron Islands. It is the seat of House Greyjoy, the rulers of the Iron Islands.</p>
-
-<h3>Members</h3>

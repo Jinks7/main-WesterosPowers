@@ -1,4 +1,0 @@
-<?php
-
-// create the database
-
